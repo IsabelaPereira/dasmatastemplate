@@ -1,0 +1,17 @@
+.uk-icon{
+    max-width: 100px !important;
+    padding: 10px !important;
+    color: black !important;
+}
+
+.uk-navbar-nav li a {
+    font-size: 18px;
+}
+
+.uk-navbar-dropdown-nav li a{
+    font-size: 14px;
+}
+
+.uk-navbar-dropdown-nav li a:hover{
+    color: green;
+}
